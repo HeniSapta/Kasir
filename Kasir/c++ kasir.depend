@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668428657 source:d:\heni_code blocks\c++ kasir\main.cpp
+	<iostream>
+	<conio.h>
+
